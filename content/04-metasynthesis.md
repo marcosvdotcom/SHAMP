@@ -32,18 +32,18 @@ Metasynthesis is a method of research that allows us to generate new findings fr
 
 ## Question formulation and chunking
 
-PICo / PICOS / SPIDER. These are frameworks for breaking a research question into searchable parts, or chunks. PICO (Population, Intervention, Comparison, Outcome) comes from clinical research. SPIDER (Sample, Phenomenon of Interest, Design, Evaluation, Research type) adapts it for qualitative and mixed-methods questions. Fill in each element for your topic, then turn each one into search terms. 
+**PICo / PICOS / SPIDER.** These are frameworks for breaking a research question into searchable parts, or chunks. PICO (Population, Intervention, Comparison, Outcome) comes from clinical research. SPIDER (Sample, Phenomenon of Interest, Design, Evaluation, Research type) adapts it for qualitative and mixed-methods questions. Fill in each element for your topic, then turn each one into search terms. 
 [Cooke A, Smith D, Booth A. Beyond PICO: the SPIDER tool for qualitative evidence synthesis. Qual Health Res. 2012 Oct;22(10):1435-43. doi: 10.1177/1049732312452938. Epub 2012 Jul 24. PMID: 22829486.](https://pubmed.ncbi.nlm.nih.gov/22829486/)
 
 ## Frameworks for Systematic Review
 
-PRISMA 2020. This is a 27-item checklist and flow diagram for reporting what you did and found in a systematic review. Use the flow diagram to show how many records you identified, screened, and included, and use the checklist to check your write-up. It was designed for systematic reviews generally, not specifically for qualitative ones, so pair it with ENTREQ for a metasynthesis.
+**PRISMA 2020.** This is a 27-item checklist and flow diagram for reporting what you did and found in a systematic review. Use the flow diagram to show how many records you identified, screened, and included, and use the checklist to check your write-up. It was designed for systematic reviews generally, not specifically for qualitative ones, so pair it with ENTREQ for a metasynthesis.
 [PRISMA 2020](https://prisma-statement.org)
 
-PRISMA-S. This extension has 16 items for reporting your literature search so that someone else could reproduce it. Use it to record each database, the exact search strings, any filters or limits, and the dates you searched. 
+**PRISMA-S.** This extension has 16 items for reporting your literature search so that someone else could reproduce it. Use it to record each database, the exact search strings, any filters or limits, and the dates you searched. 
 [Rethlefsen et al. (2021), PRISMA-S](https://link.springer.com/article/10.1186/s13643-020-01542-z)
 
-ENTREQ. This is a 21-item reporting guideline made specifically for syntheses of qualitative research. Its items cover the aim, the synthesis methodology, searching, screening, appraisal, and how findings were synthesized. 
+**ENTREQ.** This is a 21-item reporting guideline made specifically for syntheses of qualitative research. Its items cover the aim, the synthesis methodology, searching, screening, appraisal, and how findings were synthesized. 
 [Tong A, Flemming K, McInnes E, Oliver S, Craig J. (2012). Enhancing transparency in reporting the synthesis of qualitative research: ENTREQ. BMC Medical Research Methodology, 12, 181.](https://doi.org/10.1186/1471-2288-12-181)
 
 ## Appraising studies
